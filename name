@@ -1,0 +1,4 @@
+   git init && git add . && git commit -m "To-do list com Next.js"
+   git branch -M main
+   git remote add origin https://github.com/SEU-USUARIO/todo-nextjs.git
+   git push -u origin main
